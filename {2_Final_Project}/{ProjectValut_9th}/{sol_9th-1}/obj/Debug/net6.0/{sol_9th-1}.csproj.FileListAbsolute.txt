@@ -1,0 +1,15 @@
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_9th}\{sol_9th-1}\obj\Debug\net6.0\{sol_9th-1}.csproj.AssemblyReference.cache
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_9th}\{sol_9th-1}\obj\Debug\net6.0\{sol_9th-1}.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_9th}\{sol_9th-1}\obj\Debug\net6.0\{sol_9th-1}.AssemblyInfoInputs.cache
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_9th}\{sol_9th-1}\obj\Debug\net6.0\{sol_9th-1}.AssemblyInfo.cs
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_9th}\{sol_9th-1}\obj\Debug\net6.0\{sol_9th-1}.csproj.CoreCompileInputs.cache
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_9th}\{sol_9th-1}\bin\Debug\net6.0\{sol_9th-1}.exe
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_9th}\{sol_9th-1}\bin\Debug\net6.0\{sol_9th-1}.deps.json
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_9th}\{sol_9th-1}\bin\Debug\net6.0\{sol_9th-1}.runtimeconfig.json
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_9th}\{sol_9th-1}\bin\Debug\net6.0\{sol_9th-1}.dll
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_9th}\{sol_9th-1}\bin\Debug\net6.0\{sol_9th-1}.pdb
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_9th}\{sol_9th-1}\obj\Debug\net6.0\{sol_9th-1}.dll
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_9th}\{sol_9th-1}\obj\Debug\net6.0\refint\{sol_9th-1}.dll
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_9th}\{sol_9th-1}\obj\Debug\net6.0\{sol_9th-1}.pdb
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_9th}\{sol_9th-1}\obj\Debug\net6.0\{sol_9th-1}.genruntimeconfig.cache
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_9th}\{sol_9th-1}\obj\Debug\net6.0\ref\{sol_9th-1}.dll
