@@ -1,0 +1,15 @@
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_10th}\{sol_10th-2}\bin\Debug\net6.0\{sol_10th-2}.exe
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_10th}\{sol_10th-2}\bin\Debug\net6.0\{sol_10th-2}.deps.json
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_10th}\{sol_10th-2}\bin\Debug\net6.0\{sol_10th-2}.runtimeconfig.json
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_10th}\{sol_10th-2}\bin\Debug\net6.0\{sol_10th-2}.dll
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_10th}\{sol_10th-2}\bin\Debug\net6.0\{sol_10th-2}.pdb
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_10th}\{sol_10th-2}\obj\Debug\net6.0\{sol_10th-2}.csproj.AssemblyReference.cache
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_10th}\{sol_10th-2}\obj\Debug\net6.0\{sol_10th-2}.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_10th}\{sol_10th-2}\obj\Debug\net6.0\{sol_10th-2}.AssemblyInfoInputs.cache
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_10th}\{sol_10th-2}\obj\Debug\net6.0\{sol_10th-2}.AssemblyInfo.cs
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_10th}\{sol_10th-2}\obj\Debug\net6.0\{sol_10th-2}.csproj.CoreCompileInputs.cache
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_10th}\{sol_10th-2}\obj\Debug\net6.0\{sol_10th-2}.dll
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_10th}\{sol_10th-2}\obj\Debug\net6.0\refint\{sol_10th-2}.dll
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_10th}\{sol_10th-2}\obj\Debug\net6.0\{sol_10th-2}.pdb
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_10th}\{sol_10th-2}\obj\Debug\net6.0\{sol_10th-2}.genruntimeconfig.cache
+C:\Users\yyt11\OneDrive\바탕 화면\C# prac\CSharp\{2_Final_Project}\{ProjectValut_10th}\{sol_10th-2}\obj\Debug\net6.0\ref\{sol_10th-2}.dll
