@@ -1,0 +1,8 @@
+C:\Users\yyt11\OneDrive\바탕 화면\C#\FinalQ2\bin\Debug\FinalQ2.exe.config
+C:\Users\yyt11\OneDrive\바탕 화면\C#\FinalQ2\bin\Debug\FinalQ2.exe
+C:\Users\yyt11\OneDrive\바탕 화면\C#\FinalQ2\bin\Debug\FinalQ2.pdb
+C:\Users\yyt11\OneDrive\바탕 화면\C#\FinalQ2\obj\Debug\FinalQ2.csproj.AssemblyReference.cache
+C:\Users\yyt11\OneDrive\바탕 화면\C#\FinalQ2\obj\Debug\FinalQ2.csproj.SuggestedBindingRedirects.cache
+C:\Users\yyt11\OneDrive\바탕 화면\C#\FinalQ2\obj\Debug\FinalQ2.csproj.CoreCompileInputs.cache
+C:\Users\yyt11\OneDrive\바탕 화면\C#\FinalQ2\obj\Debug\FinalQ2.exe
+C:\Users\yyt11\OneDrive\바탕 화면\C#\FinalQ2\obj\Debug\FinalQ2.pdb
